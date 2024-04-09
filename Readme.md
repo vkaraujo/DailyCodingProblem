@@ -8,7 +8,7 @@ Each problem is contained in its own directory, named `problem_XXX` where `XXX` 
 
 - `solutionXXX.rb`: The Ruby script containing the solution.
 - `solutionXXX_spec.rb`: The RSpec test file for the solution.
-- `Readme.md`: A markdown file describing the problem and my approach to solving it.
+- `Readme.md`: A markdown file describing the problem.
 
 ## Running Tests
 
