@@ -1,8 +1,9 @@
 module DailyCodingProblem001
-  def self.has_pair_with_sum?(nums, k)
+  def self.pair_with_sum?(nums, target_sum)
     seen = {}
     nums.each do |num|
-      return true if seen[k - num]
+      return true if seen[target_sum - num]
+
       seen[num] = true
     end
     false
