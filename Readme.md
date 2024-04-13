@@ -29,3 +29,28 @@ While this project is primarily for my personal development, I'm open to contrib
 ## Acknowledgments
 
 Thanks to the "Daily Coding Problem" site for providing these challenging and interesting problems. This repository is not affiliated with the site but serves as a personal project to track and share my solutions.
+
+# Gems and Extra Features
+
+## Simple-Cov report
+
+To run a report use:
+```bash
+COVERAGE=true rspec
+```
+The image below is just an example and won't be updated in a regular manner
+![Test Coverage](assets/coverage_screenshot.png)
+
+## Flog
+[Flog gem repo](https://github.com/seattlerb/flog)
+Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
+
+If you download the project you can use
+```bash
+flog . # to run it for the whole project
+# or
+flog path/to/file.rb # to run it for a specific file
+```
+
+Due to the complexity of the challenges, lowering the flog score was not a priority.
+I only installed it to experiment with it.
