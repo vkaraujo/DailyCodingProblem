@@ -28,7 +28,3 @@ module DailyCodingProblem004
     end
   end
 end
-
-# Tests required by the challenge
-puts DailyCodingProblem004.first_missing_positive([3, 4, -1, 1]) # Expected output: 2
-puts DailyCodingProblem004.first_missing_positive([1, 2, 0]) # Expected output: 3

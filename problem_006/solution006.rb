@@ -42,13 +42,3 @@ module DailyCodingProblem006
     end
   end
 end
-
-# Testing the XORLinkedList within the DailyCodingProblem006 module
-list = DailyCodingProblem006::XORLinkedList.new
-list.add('a')
-list.add('b')
-list.add('c')
-
-puts list.get(0) # Output: a
-puts list.get(1) # Output: b
-puts list.get(2) # Output: c

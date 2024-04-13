@@ -30,13 +30,3 @@ module DailyCodingProblem003
     deserialize_helper.call(node_data)
   end
 end
-
-# Tests required by the challenge
-DCP003 = DailyCodingProblem003 # Reassigning to make it easier to read
-
-node = DCP003::Node.new('root', 
-        DCP003::Node.new('left', 
-          DCP003::Node.new('left.left')), 
-        DCP003::Node.new('right'))
-
-puts DCP003.deserialize(DCP003.serialize(node)).left.left.val == 'left.left' ? "Pass" : "Fail"
