@@ -36,7 +36,7 @@ Thanks to the "Daily Coding Problem" site for providing these challenging and in
 
 To run a report use:
 ```bash
-COVERAGE=true rspec
+COVERAGE=true rspec .
 ```
 The image below is just an example and won't be updated in a regular manner
 ![Test Coverage](assets/coverage_screenshot.png)
