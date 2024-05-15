@@ -28,7 +28,3 @@ module DailyCodingProblem018
     { ')' => '(', '}' => '{', ']' => '[' }[char]
   end
 end
-
-puts DailyCodingProblem018.balanced_brackets("([])[]({})")
-puts DailyCodingProblem018.balanced_brackets("([)]")
-puts DailyCodingProblem018.balanced_brackets("((()") 
