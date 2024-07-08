@@ -1,4 +1,4 @@
-# Problem 018 - "Easy"
+# Problem 020 - "Easy"
 This problem was asked by Amazon.
 
 ## Description

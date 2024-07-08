@@ -1,4 +1,4 @@
-# Problem 018 - "Easy"
+# Problem 021 - "Easy"
 This problem was asked by Google.
 
 ## Description
