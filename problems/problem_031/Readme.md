@@ -1,4 +1,6 @@
 # Problem 031
+Summary: Print the elements of a matrix in a clockwise spiral order.
+
 This problem was asked by Amazon.
 
 ## Description

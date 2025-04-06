@@ -1,4 +1,6 @@
 # Problem 010
+Summary: Build an autocomplete system using efficient prefix matching.
+
 This problem was asked by Twitter.
 
 ## Description

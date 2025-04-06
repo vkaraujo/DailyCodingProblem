@@ -1,4 +1,6 @@
 # Problem 008
+Summary: Count the number of unival (single-value) subtrees in a binary tree.
+
 This problem was asked by Google.
 
 ## Description

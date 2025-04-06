@@ -1,4 +1,6 @@
 # Problem 021
+Summary: Compute the minimum number of edits needed to transform one string into another.
+
 This problem was asked by Google.
 
 ## Description

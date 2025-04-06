@@ -1,4 +1,6 @@
 # Problem 020
+Summary: Implement run-length encoding and decoding of alphabetic strings.
+
 This problem was asked by Amazon.
 
 ## Description

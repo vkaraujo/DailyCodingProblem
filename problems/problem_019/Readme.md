@@ -1,4 +1,6 @@
 # Problem 019
+Summary: Justify a list of words into lines of fixed length by distributing spaces evenly.
+
 This problem was asked by Palantir.
 
 ## Description

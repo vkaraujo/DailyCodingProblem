@@ -1,4 +1,6 @@
 # Problem 027
+Summary: Calculate the maximum profit from a single buy-sell transaction on stock prices.
+
 This problem was asked by Facebook.
 
 ## Description

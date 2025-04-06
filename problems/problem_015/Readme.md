@@ -1,4 +1,6 @@
 # Problem 015
+Summary: Determine the minimum number of rooms required to schedule all overlapping time intervals.
+
 This problem was asked by Snapchat.
 
 ## Description

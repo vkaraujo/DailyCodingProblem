@@ -1,4 +1,6 @@
 # Problem 001
+Summary: Check if any two numbers in a list sum to a target value.
+
 This problem was recently asked by Google.
 
 ## Description

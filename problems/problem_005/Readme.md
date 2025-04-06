@@ -1,4 +1,6 @@
 # Problem 005
+Summary: Recreate car and cdr from functional pairs using closures.
+
 This problem was asked by Jane Street.
 
 ## Description

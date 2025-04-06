@@ -1,4 +1,6 @@
 # Problem 030
+Summary: Search for a target word in a 2D character matrix along horizontal and vertical paths.
+
 This problem was asked by Google.
 
 ## Description

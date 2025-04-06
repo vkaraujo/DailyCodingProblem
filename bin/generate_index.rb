@@ -11,7 +11,10 @@ def extract_summary(path)
   readme = path.join('Readme.md')
   return "(no summary)" unless readme.exist?
 
-  File.foreach(readme).find { !_1.strip.empty? }&.strip || "(no summary)"
+  summary_line = File.foreach(readme).find { _1.strip.start_with?("Summary:") }
+  return "(no summary)" unless summary_line
+
+  summary_line.sub("Summary:", "").strip
 end
 
 def generate_table
@@ -26,7 +29,7 @@ def generate_table
   end
 
   <<~TABLE
-    ### 🗂 Problem Index
+    ## 🗂 Problem Index
 
     | Problem # | Title / Summary | Link |
     |-----------|------------------|------|

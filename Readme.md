@@ -56,45 +56,43 @@ Due to the complexity of the challenges, lowering the flog score was not a prior
 I only installed it to experiment with it.
 
 
-## TEST
-
 <!-- problem-index:start -->
 
-### 🗂 Problem Index
+## 🗂 Problem Index
 
 | Problem # | Title / Summary | Link |
 |-----------|------------------|------|
-| 001 | # Problem 001 | [View](problems/problem_001) |
-| 002 | # Problem 002 | [View](problems/problem_002) |
-| 003 | # Problem 003 | [View](problems/problem_003) |
-| 004 | # Problem 004 | [View](problems/problem_004) |
-| 005 | # Problem 005 | [View](problems/problem_005) |
-| 006 | # Problem 006 | [View](problems/problem_006) |
-| 007 | # Problem 007 | [View](problems/problem_007) |
-| 008 | # Problem 008 | [View](problems/problem_008) |
-| 009 | # Problem 009 | [View](problems/problem_009) |
-| 010 | # Problem 010 | [View](problems/problem_010) |
-| 011 | # Problem 011 | [View](problems/problem_011) |
-| 012 | # Problem 012 | [View](problems/problem_012) |
-| 013 | # Problem 013 | [View](problems/problem_013) |
-| 014 | # Problem 014 | [View](problems/problem_014) |
-| 015 | # Problem 015 | [View](problems/problem_015) |
-| 016 | # Problem 016 | [View](problems/problem_016) |
-| 017 | # Problem 017 | [View](problems/problem_017) |
-| 018 | # Problem 018 | [View](problems/problem_018) |
-| 019 | # Problem 019 | [View](problems/problem_019) |
-| 020 | # Problem 020 | [View](problems/problem_020) |
-| 021 | # Problem 021 | [View](problems/problem_021) |
-| 022 | # Problem 022 | [View](problems/problem_022) |
-| 023 | # Problem 023 | [View](problems/problem_023) |
-| 024 | # Problem 024 | [View](problems/problem_024) |
-| 025 | # Problem 025 | [View](problems/problem_025) |
-| 026 | # Problem 026 | [View](problems/problem_026) |
-| 027 | # Problem 027 | [View](problems/problem_027) |
-| 028 | # Problem 028 | [View](problems/problem_028) |
-| 029 | # Problem 029 | [View](problems/problem_029) |
-| 030 | # Problem 030 | [View](problems/problem_030) |
-| 031 | # Problem 031 | [View](problems/problem_031) |
+| 001 | Check if any two numbers in a list sum to a target value. | [View](problems/problem_001) |
+| 002 | Generate a product array where each element is the product of all others except itself. | [View](problems/problem_002) |
+| 003 | Implement serialization and deserialization of a binary tree. | [View](problems/problem_003) |
+| 004 | Find the first missing positive integer in an unsorted array using constant space. | [View](problems/problem_004) |
+| 005 | Recreate car and cdr from functional pairs using closures. | [View](problems/problem_005) |
+| 006 | Implement an XOR linked list using memory-efficient pointer manipulation. | [View](problems/problem_006) |
+| 007 | Count the number of valid decodings of a numeric string using letter mappings. | [View](problems/problem_007) |
+| 008 | Count the number of unival (single-value) subtrees in a binary tree. | [View](problems/problem_008) |
+| 009 | Implement a job scheduler that delays function execution by a specified time. | [View](problems/problem_009) |
+| 010 | Build an autocomplete system using efficient prefix matching. | [View](problems/problem_010) |
+| 011 | Estimate the value of π using the Monte Carlo simulation method. | [View](problems/problem_011) |
+| 012 | Design a fixed-size log to record and retrieve the last N entries efficiently. | [View](problems/problem_012) |
+| 013 | Minimize painting cost for houses with the constraint that adjacent houses cannot share the same color. | [View](problems/problem_013) |
+| 014 | Find the intersection node of two singly linked lists in linear time and constant space. | [View](problems/problem_014) |
+| 015 | Determine the minimum number of rooms required to schedule all overlapping time intervals. | [View](problems/problem_015) |
+| 016 | Reconstruct a sentence from a string using valid dictionary words, allowing multiple valid segmentations. | [View](problems/problem_016) |
+| 017 | Find the shortest path in a 2D grid while avoiding walls and only moving in four directions. | [View](problems/problem_017) |
+| 018 | Check if a string of mixed brackets is balanced and properly nested. | [View](problems/problem_018) |
+| 019 | Justify a list of words into lines of fixed length by distributing spaces evenly. | [View](problems/problem_019) |
+| 020 | Implement run-length encoding and decoding of alphabetic strings. | [View](problems/problem_020) |
+| 021 | Compute the minimum number of edits needed to transform one string into another. | [View](problems/problem_021) |
+| 022 | Perform run-length encoding and decoding on alphabetic strings to compress repeated characters. | [View](problems/problem_022) |
+| 023 | Determine the edit distance between two strings using insertions, deletions, and substitutions. | [View](problems/problem_023) |
+| 024 | Generate the power set of a given set, representing all possible subsets. | [View](problems/problem_024) |
+| 025 | Design a stack with push, pop, and constant-time max retrieval. | [View](problems/problem_025) |
+| 026 | Generate a uniform random number from 1 to 7 using only a function that returns 1 to 5. | [View](problems/problem_026) |
+| 027 | Calculate the maximum profit from a single buy-sell transaction on stock prices. | [View](problems/problem_027) |
+| 028 | Evaluate an arithmetic expression represented as a binary tree. | [View](problems/problem_028) |
+| 029 | Build a URL shortener that maps URLs to unique short codes and supports bidirectional lookup. | [View](problems/problem_029) |
+| 030 | Search for a target word in a 2D character matrix along horizontal and vertical paths. | [View](problems/problem_030) |
+| 031 | Print the elements of a matrix in a clockwise spiral order. | [View](problems/problem_031) |
 
 
 <!-- problem-index:end -->

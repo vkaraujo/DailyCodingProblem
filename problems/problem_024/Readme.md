@@ -1,4 +1,6 @@
 # Problem 024
+Summary: Generate the power set of a given set, representing all possible subsets.
+
 This problem was asked by Google.
 
 ## Description

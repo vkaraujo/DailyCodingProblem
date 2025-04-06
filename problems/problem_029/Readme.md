@@ -1,4 +1,6 @@
 # Problem 029
+Summary: Build a URL shortener that maps URLs to unique short codes and supports bidirectional lookup.
+
 This problem was asked by Microsoft.
 
 ## Description

@@ -1,4 +1,6 @@
 # Problem 017
+Summary: Find the shortest path in a 2D grid while avoiding walls and only moving in four directions.
+
 This problem was asked by Google
 
 ## Description

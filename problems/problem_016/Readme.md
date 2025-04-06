@@ -1,4 +1,6 @@
 # Problem 016
+Summary: Reconstruct a sentence from a string using valid dictionary words, allowing multiple valid segmentations.
+
 This problem was asked by Microsoft.
 
 ## Description

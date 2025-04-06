@@ -1,4 +1,6 @@
 # Problem 025
+Summary: Design a stack with push, pop, and constant-time max retrieval.
+
 This problem was asked by Amazon.
 
 ## Description

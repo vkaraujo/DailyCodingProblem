@@ -1,4 +1,6 @@
 # Problem 013
+Summary: Minimize painting cost for houses with the constraint that adjacent houses cannot share the same color.
+
 This problem was asked by Facebook.
 
 ## Description

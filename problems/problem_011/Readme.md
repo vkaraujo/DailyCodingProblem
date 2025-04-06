@@ -1,4 +1,6 @@
 # Problem 011
+Summary: Estimate the value of π using the Monte Carlo simulation method.
+
 This problem was asked by Google.
 
 ## Description

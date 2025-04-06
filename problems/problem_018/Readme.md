@@ -1,4 +1,6 @@
 # Problem 018
+Summary: Check if a string of mixed brackets is balanced and properly nested.
+
 This problem was asked by Facebook.
 
 ## Description

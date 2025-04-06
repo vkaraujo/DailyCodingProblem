@@ -1,4 +1,6 @@
 # Problem 022
+Summary: Perform run-length encoding and decoding on alphabetic strings to compress repeated characters.
+
 This problem was asked by Amazon.
 
 ## Description

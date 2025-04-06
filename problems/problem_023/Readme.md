@@ -1,4 +1,6 @@
 # Problem 023
+Summary: Determine the edit distance between two strings using insertions, deletions, and substitutions.
+
 This problem was asked by Google.
 
 ## Description

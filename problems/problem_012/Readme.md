@@ -1,4 +1,6 @@
 # Problem 012
+Summary: Design a fixed-size log to record and retrieve the last N entries efficiently.
+
 This problem was asked by Twitter.
 
 ## Description

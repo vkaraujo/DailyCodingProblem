@@ -1,4 +1,6 @@
 # Problem 007
+Summary: Count the number of valid decodings of a numeric string using letter mappings.
+
 This problem was asked by Facebook.
 
 ## Description

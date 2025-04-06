@@ -1,4 +1,6 @@
 # Problem 004
+Summary: Find the first missing positive integer in an unsorted array using constant space.
+
 This problem was asked by Stripe.
 
 ## Description

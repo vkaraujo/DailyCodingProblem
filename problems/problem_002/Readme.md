@@ -1,4 +1,6 @@
 # Problem 002
+Summary: Generate a product array where each element is the product of all others except itself.
+
 This problem was asked by Uber.
 
 ## Description

@@ -1,4 +1,6 @@
 # Problem 003
+Summary: Implement serialization and deserialization of a binary tree.
+
 This problem was asked by Google.
 
 ## Description

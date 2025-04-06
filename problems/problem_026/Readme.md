@@ -1,4 +1,6 @@
 # Problem 026
+Summary: Generate a uniform random number from 1 to 7 using only a function that returns 1 to 5.
+
 This problem was asked by Two Sigma.
 
 ## Description

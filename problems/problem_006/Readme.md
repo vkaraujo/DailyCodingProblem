@@ -1,4 +1,6 @@
 # Problem 006
+Summary: Implement an XOR linked list using memory-efficient pointer manipulation.
+
 This problem was asked by Google.
 
 ## Description

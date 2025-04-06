@@ -1,4 +1,6 @@
 # Problem 028
+Summary: Evaluate an arithmetic expression represented as a binary tree.
+
 This problem was asked by Microsoft.
 
 ## Description
