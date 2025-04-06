@@ -1,4 +1,4 @@
-# Problem 001 - Easy
+# Problem 001
 This problem was recently asked by Google.
 
 ## Description

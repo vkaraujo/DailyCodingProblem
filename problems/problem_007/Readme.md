@@ -1,4 +1,4 @@
-# Problem 007 - Medium
+# Problem 007
 This problem was asked by Facebook.
 
 ## Description

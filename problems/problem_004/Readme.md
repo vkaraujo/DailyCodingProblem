@@ -1,4 +1,4 @@
-# Problem 004 - Hard
+# Problem 004
 This problem was asked by Stripe.
 
 ## Description

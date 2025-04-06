@@ -1,4 +1,4 @@
-# Problem 017 - "Easy"
+# Problem 017
 This problem was asked by Google
 
 ## Description

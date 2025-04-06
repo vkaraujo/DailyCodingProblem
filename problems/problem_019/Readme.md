@@ -1,4 +1,4 @@
-# Problem 019 - "Medium"
+# Problem 019
 This problem was asked by Palantir.
 
 ## Description

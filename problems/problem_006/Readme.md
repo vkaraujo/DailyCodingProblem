@@ -1,4 +1,4 @@
-# Problem 006 - Hard (Like, for real. I mean, WTF?)
+# Problem 006
 This problem was asked by Google.
 
 ## Description

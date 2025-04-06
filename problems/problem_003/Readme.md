@@ -1,4 +1,4 @@
-# Problem 003 - Medium
+# Problem 003
 This problem was asked by Google.
 
 ## Description

@@ -1,4 +1,4 @@
-# Problem 012 - Easy
+# Problem 012
 This problem was asked by Twitter.
 
 ## Description

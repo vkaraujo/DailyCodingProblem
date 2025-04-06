@@ -1,4 +1,4 @@
-# Problem 005 - Medium
+# Problem 005
 This problem was asked by Jane Street.
 
 ## Description

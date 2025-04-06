@@ -1,4 +1,4 @@
-# Problem 015 - Easy
+# Problem 015
 This problem was asked by Snapchat.
 
 ## Description

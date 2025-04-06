@@ -1,4 +1,4 @@
-# Problem 013 - Medium
+# Problem 013
 This problem was asked by Facebook.
 
 ## Description

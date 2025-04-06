@@ -1,4 +1,4 @@
-# Problem 002 - Hard
+# Problem 002
 This problem was asked by Uber.
 
 ## Description

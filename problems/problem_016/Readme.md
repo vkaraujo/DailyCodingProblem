@@ -1,4 +1,4 @@
-# Problem 016 - Medium
+# Problem 016
 This problem was asked by Microsoft.
 
 ## Description

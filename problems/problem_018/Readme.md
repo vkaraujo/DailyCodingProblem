@@ -1,4 +1,4 @@
-# Problem 018 - "Easy"
+# Problem 018
 This problem was asked by Facebook.
 
 ## Description

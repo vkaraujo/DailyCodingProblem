@@ -1,4 +1,4 @@
-# Problem 009 - Medium
+# Problem 009
 This problem was asked by Apple.
 
 ## Description

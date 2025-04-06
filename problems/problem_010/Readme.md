@@ -1,4 +1,4 @@
-# Problem 010 - Medium
+# Problem 010
 This problem was asked by Twitter.
 
 ## Description

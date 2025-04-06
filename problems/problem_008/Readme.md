@@ -1,4 +1,4 @@
-# Problem 008 - Easy
+# Problem 008
 This problem was asked by Google.
 
 ## Description

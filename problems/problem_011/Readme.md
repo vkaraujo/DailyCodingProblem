@@ -1,4 +1,4 @@
-# Problem 011 - Medium
+# Problem 011
 This problem was asked by Google.
 
 ## Description
