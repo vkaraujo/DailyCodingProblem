@@ -9,6 +9,7 @@ GEM
       sexp_processor (~> 4.8)
     path_expander (1.1.1)
     racc (1.7.3)
+    rake (13.2.1)
     rspec (3.13.0)
       rspec-core (~> 3.13.0)
       rspec-expectations (~> 3.13.0)
@@ -39,6 +40,7 @@ PLATFORMS
 
 DEPENDENCIES
   flog
+  rake
   rspec (~> 3.10)
   simplecov
 

@@ -15,7 +15,7 @@ Each problem is contained in its own folder inside the `problems/` directory. Ea
 Tests are written using RSpec. To run all tests:
 
 ```bash
-bundle exec rspec
+bundle exec rake rspec
 ```
 You can also run a specific test file:
 ```bash
