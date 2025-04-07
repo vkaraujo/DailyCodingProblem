@@ -71,7 +71,7 @@ Below is an auto-generated index of all problems and summaries. It is updated vi
 
 To run a coverage report:
 ```bash
-COVERAGE=true bundle exec rspec
+COVERAGE=true bundle exec rake
 ```
 The image below is just an example and won't be updated in a regular manner
 ![Test Coverage](assets/coverage_screenshot.png)
