@@ -26,8 +26,6 @@ bundle exec rspec problems/problem_001/solution001_spec.rb
 
 ## 🗂 Problem Index
 
-Below is an auto-generated index of all problems and summaries. It is updated via a script in `bin/generate_index.rb`.
-
 | Problem # | Title / Summary | Link |
 |-----------|------------------|------|
 | 001 | Check if any two numbers in a list sum to a target value. | [View](problems/problem_001) |
@@ -61,6 +59,8 @@ Below is an auto-generated index of all problems and summaries. It is updated vi
 | 029 | Build a URL shortener that maps URLs to unique short codes and supports bidirectional lookup. | [View](problems/problem_029) |
 | 030 | Search for a target word in a 2D character matrix along horizontal and vertical paths. | [View](problems/problem_030) |
 | 031 | Print the elements of a matrix in a clockwise spiral order. | [View](problems/problem_031) |
+| 032 | Find the largest product possible from any three integers in a list. | [View](problems/problem_032) |
+| 033 | Find the n-th positive integer whose digits sum to exactly 10. | [View](problems/problem_033) |
 
 
 <!-- problem-index:end -->
