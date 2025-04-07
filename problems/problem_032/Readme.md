@@ -1,4 +1,6 @@
 # Problem 032
+Summary: Find the largest product possible from any three integers in a list.
+
 This problem was asked by Facebook.
 
 ## Description
