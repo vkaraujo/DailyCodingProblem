@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# bin/generate_index.rb
+# frozen_string_literal: true
 
 require 'pathname'
 
