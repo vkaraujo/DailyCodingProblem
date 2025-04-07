@@ -1,0 +1,62 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'fileutils'
+
+problem_number = ARGV[0]
+
+if problem_number.nil?
+  puts "Usage: bin/new_problem <number>"
+  exit 1
+end
+
+padded = problem_number.rjust(3, '0')
+dir_name = "problem_#{padded}"
+dir_path = File.join("problems", dir_name)
+
+if File.exist?(dir_path)
+  puts "❗ Folder #{dir_path} already exists."
+  exit 1
+end
+
+FileUtils.mkdir_p(dir_path)
+
+# Create Readme.md
+File.write(File.join(dir_path, "Readme.md"), <<~MD)
+  # Problem #{padded}
+
+  Summary: (fill this in)
+
+  (Paste the problem description here)
+MD
+
+# Create solution file
+File.write(File.join(dir_path, "solution#{padded}.rb"), <<~RUBY)
+  # frozen_string_literal: true
+
+  module DailyCodingProblem#{padded}
+    class YourSolution
+      def call
+        # Your code here
+      end
+    end
+  end
+RUBY
+
+# Create spec file
+File.write(File.join(dir_path, "solution#{padded}_spec.rb"), <<~RUBY)
+  # frozen_string_literal: true
+
+  require_relative '../../test_helper'
+  require_relative 'solution#{padded}'
+
+  RSpec.describe DailyCodingProblem#{padded}::YourSolution do
+    subject { described_class.new }
+
+    it 'does something' do
+      expect(subject.call).to eq(nil)
+    end
+  end
+RUBY
+
+puts "✅ Created problem #{padded} in #{dir_path}"
